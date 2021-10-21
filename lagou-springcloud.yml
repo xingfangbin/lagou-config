@@ -1,0 +1,4 @@
+mysql:
+  url:http://lagou
+lagou:
+  message: lagou message
