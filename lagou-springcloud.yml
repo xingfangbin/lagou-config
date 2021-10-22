@@ -1,4 +1,4 @@
 mysql:
-  url:http://lagou
+  url: http://lagou
 lagou:
   message: lagou message
