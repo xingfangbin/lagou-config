@@ -1,4 +1,5 @@
-lagou:
-  message: lagou message
 mysql:
   url: dev-http://localhost:3306/lagou
+lagou:
+  message: lagou message
+
