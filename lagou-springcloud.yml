@@ -1,4 +1,4 @@
-mysql1:
-  url1: http://lagou
+mysql:
+  url: lagou url
 lagou:
   message: lagou message
