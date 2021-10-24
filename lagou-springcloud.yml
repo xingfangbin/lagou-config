@@ -1,5 +1,7 @@
 mysql:
-  url: dev-http://localhost:3307/lagou
-lagou:
+  url: dev-http://localhost:3306/lagou
+  name: root
+  password: root
+mail:
   message: lagou message
 
