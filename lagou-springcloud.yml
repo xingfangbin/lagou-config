@@ -1,4 +1,5 @@
 mysql:
+  driverClassName: com.mysql.jdbc.Driver
   url: dev-http://localhost:3306/lagou
   name: root
   password: root
